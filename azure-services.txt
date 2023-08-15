@@ -1,0 +1,36 @@
+Azure Container Apps
+Azure Container Instances
+Azure Container Registry
+Azure Active Directory
+AKS
+Azure Monitor
+Azure Policy
+Azure Resource Manager
+Azure Security Center
+Azure Sentinel
+Azure Advisor
+Azure Cost Management
+Azure Service Health
+Azure CDN
+Azure Data Factory
+Azure SQL
+CosmosDB
+Azure DevOps
+Azure Backup
+Logic Apps
+Virtual Machines
+Azure App Service
+Azure Functions
+Azure Storage
+Azure Files
+Azure Data Lake Storage
+AI + machine learning
+AI Anomaly Detector
+Azure AI Bot Service
+Azure Cognitive Search
+Azure Databricks
+Azure Machine Learning
+Azure Open Datasets
+Azure AI Services
+Azure AI Video Indexer
+Azure AI Custom Vision
