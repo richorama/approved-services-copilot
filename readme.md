@@ -17,7 +17,7 @@ The list of services is maintained int the `azure-services.txt` file.
 $ npm install
 ```
 
-3. Create a `.env` file in the root of the project and add the following (replacing the XXX, YYY, ZZZ with your values):
+3. Create a `.env` file in the root of the project and add the following (replacing XXX with your openai instance name, YYY your deployment name, ZZZ an access key).
 
 ```
 OPEN_AI_ENDPOINT=https://XXX.openai.azure.com/openai/deployments/YYY/chat/completions?api-version=2023-07-01-preview
